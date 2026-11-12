@@ -91,6 +91,7 @@ export const projects: Project[] = [
     ],
     stack: ["Python", "FastAPI", "WebSockets", "React", "TypeScript", "SQLite FTS5", "Gemini API", "RAG"],
     shots: [
+      { src: "/assets/screenshots/infy-assistant.png", caption: "Infy voice assistant — listening state, suggested commands, and customizable start/stop voice keywords" },
       { src: "/assets/screenshots/infy-home.png", caption: "Chapter view with voice controls — mic, type-a-question, EN/हिं toggle" },
       { src: "/assets/screenshots/infy-scroll.png", caption: "Voice tutor session inside a Grade 8 Science chapter" },
     ],
